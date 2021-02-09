@@ -12,4 +12,4 @@ I decided to have such a repository for 2 reasons:
 
 If while reading, you notice that an algorithm can be more efficient, you can open a pull request and I will review the code and give you credit in the documentation.
 
-Please make sure to update tests as appropriate.
+Please make sure to test the algorithm as appropriate.
